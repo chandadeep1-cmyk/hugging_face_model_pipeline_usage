@@ -107,4 +107,3 @@ if st.button("🚀 Generate Response"):
                 st.error("Something went wrong.")
 
                 st.code(str(e))
-```
